@@ -30,8 +30,8 @@ R = { +1 , if we come closer to the winning
        0 , if not
 ```
 ### Graphical Representation
-<img width="383" alt="r1" src="https://github.com/naramala-niharika/mdp-representation/assets/94165377/04bd370c-fe9f-4d93-94be-0062fa7cda17">
 
+![rl 1](https://github.com/Shaik-sameer-AIML/mdp-representation/assets/93427186/7de570e8-75e6-481d-afaf-2a5d5f2ef983)
 
 ## PYTHON REPRESENTATION:
 ```
